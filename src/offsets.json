@@ -1,0 +1,10 @@
+{
+    "base_address": 305419896,
+    "balance_offset": 16,
+    "price_offset": 32,
+    "gas_offset": 48,
+    "yield_offset": 64,
+    "agent_status_offset": 80,
+    "swap_route_offset": 96,
+    "news_sentiment_offset": 112
+}
